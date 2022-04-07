@@ -8,20 +8,9 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gloriacoralcerecedo.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mi ruta de aprendizaje en Launch X</title>
-      <link>https://gloriacoralcerecedo.github.io/my_launchx_blog/posts/post_1/</link>
-      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://gloriacoralcerecedo.github.io/my_launchx_blog/posts/post_1/</guid>
-      <description>¡Hola! Quiero contarte lo que he aprendido y fortalecido en este camino:
- Python Lógica de programación Jupyter Notebooks Command Line Git GitHub HTML CSS JS Node Js  En mi caso debido a mi carrera, tengo la lógica de programación, había interactuado un poco con GitHub y sabia un poco de HTML, CSS y JS. Gracias a esto pude fortalecer esos conocimiento y aprender lo que no sabia.
-Lo que me ha gustado son los live que ofrecen los Mission Commander, ya que son amigables, explican bien y resuelven tus dudas.</description>
-    </item>
-    
-    <item>
       <title>La Cultura de un(a) Desarrolad@r de Software</title>
       <link>https://gloriacoralcerecedo.github.io/my_launchx_blog/posts/intro/</link>
-      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://gloriacoralcerecedo.github.io/my_launchx_blog/posts/intro/</guid>
       <description>¡Hola!
@@ -30,6 +19,17 @@ Valores
  Respeto Responsabilidad Confianza Honestidad Dedicación Paciencia  Estos son los valores que considero importantes
 Sentimientos y emociones
  Esa emoción que se siente cuando vas creando un proyecto y que poco a poco va saliedo conforme a lo planeado. Esa frustación cuando algo no sale bien y no sabes donde esta el error o problema.</description>
+    </item>
+    
+    <item>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://gloriacoralcerecedo.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gloriacoralcerecedo.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola! Quiero contarte lo que he aprendido y fortalecido en este camino:
+ Python Lógica de programación Jupyter Notebooks Command Line Git GitHub HTML CSS JS Node Js  En mi caso debido a mi carrera, tengo la lógica de programación, había interactuado un poco con GitHub y sabia un poco de HTML, CSS y JS. Gracias a esto pude fortalecer esos conocimiento y aprender lo que no sabia.
+Lo que me ha gustado son los live que ofrecen los Mission Commander, ya que son amigables, explican bien y resuelven tus dudas.</description>
     </item>
     
     <item>
