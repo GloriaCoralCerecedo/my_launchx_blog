@@ -1,6 +1,6 @@
 ---
 title: "La Cultura de un(a) Desarrolad@r de Software"
-date: 2022-02-21T18:16:21-06:00
+date: 2022-04-07
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
@@ -26,5 +26,5 @@ Estos son los valores que considero importantes
 - Esa tranquilidad al poder resolver el problema.
 - Ese momento gracioso cuando el error o problema era algo tan simple o "obvio" que no se vio en un princpio 
 
-Esta son algunas situaciones, sentimiento y emociones que considero que siente un Profesional de Software
+Esta son algunas situaciones, sentimiento y emociones que considero que ha sentid un Profesional de Software
 
