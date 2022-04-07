@@ -1,10 +1,10 @@
 ---
 title: "Mi ruta de aprendizaje en Launch X"
 date: 2022-04-07
-description: 'Te voy a contar de mi travesía en Lauch-X de Innpvacción Virtual'
+description: 'Te voy a contar de mi travesía en Lauch-X de Innovacción Virtual'
 ---
 
-¡Hola! Quiero contarte lo que he parendido en etse camino:
+¡Hola! Quiero contarte lo que he aprendido y fortalecido en este camino:
 
 - Python
 - Lógica de programación
@@ -16,6 +16,9 @@ description: 'Te voy a contar de mi travesía en Lauch-X de Innpvacción Virtual
 - CSS
 - JS
 - Node Js
+
+En mi caso debido a mi carrera, tengo la lógica de programación, había interactuado un poco con GitHub y sabia un poco de HTML, CSS y JS.
+Gracias a esto pude fortalecer esos conocimiento y aprender lo que no sabia.
 
 Lo que me ha gustado son los live que ofrecen los Mission Commander, ya que son amigables, explican bien y resuelven tus dudas.
 
