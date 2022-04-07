@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gloriacoralcerecedo.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://gloriacoralcerecedo.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gloriacoralcerecedo.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola! Quiero contarte lo que he parendido en etse camino:
+ Python Lógica de programación Jupyter Notebooks Command Line Git GitHub HTML CSS JS Node Js  Lo que me ha gustado son los live que ofrecen los Mission Commander, ya que son amigables, explican bien y resuelven tus dudas.
+Sinceramente no hay algo que no me haya gustado.
+Algunas cosas que me han dificultado un poco es el realizar la práctica de VUEX, que aún no termino y algunas cosas de git y JS que aún no comprendo bien del todo o se me dificulta comprender.</description>
+    </item>
+    
+    <item>
       <title>La Cultura de un(a) Desarrolad@r de Software</title>
       <link>https://gloriacoralcerecedo.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
