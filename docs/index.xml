@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Gloria Coral Cerecedo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gloriacoralcerecedo.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gloriacoralcerecedo.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mis herramientas</title>
+      <link>https://gloriacoralcerecedo.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gloriacoralcerecedo.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>En este post voy a mostrar las herramientas que utilizo, y una breve explicación más un ejemplo.
+1. GitHub Es una plataforma en donde se pueden hacer los llamados &amp;ldquo;Repositorios&amp;rdquo; para alojar nuestros proyectos. Este es mi repositorio de mi playbook, en donde estare colocando todos los ejercicios de cada semana.
+2. Git Es un software de control de versiones el cual fue diseñado por Linus Torvalds Este es el Git Bash, el cual se descarga al intalar Git en mi computadora de Windows</description>
+    </item>
+    
     <item>
       <title>La Cultura de un(a) Desarrolad@r de Software</title>
       <link>https://gloriacoralcerecedo.github.io/my_launchx_blog/posts/intro/</link>
@@ -30,16 +41,6 @@ Sentimientos y emociones
       <description>¡Hola! Quiero contarte lo que he aprendido y fortalecido en este camino:
  Python Lógica de programación Jupyter Notebooks Command Line Git GitHub HTML CSS JS Node Js  En mi caso debido a mi carrera, tengo la lógica de programación, había interactuado un poco con GitHub y sabia un poco de HTML, CSS y JS. Gracias a esto pude fortalecer esos conocimiento y aprender lo que no sabia.
 Lo que me ha gustado son los live que ofrecen los Mission Commander, ya que son amigables, explican bien y resuelven tus dudas.</description>
-    </item>
-    
-    <item>
-      <title>Mis herramientas</title>
-      <link>https://gloriacoralcerecedo.github.io/my_launchx_blog/posts/post_2/</link>
-      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://gloriacoralcerecedo.github.io/my_launchx_blog/posts/post_2/</guid>
-      <description>En este post voy a mostrar las herramientas que utilizo, y una breve explicación más un ejemplo.
-1. GitHub Es una plataforma en donde se pueden hacer los llamados &amp;ldquo;Repositorios&amp;rdquo; para alojar nuestros proyectos. </description>
     </item>
     
     <item>
