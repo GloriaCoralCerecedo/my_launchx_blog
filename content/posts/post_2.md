@@ -53,8 +53,6 @@ En mi caso yo utilizo el Git Bash, el que mostre anteriormente, el cual se puede
 
 ![Tools](https://user-images.githubusercontent.com/75102777/165034034-67306707-2f22-49b5-b1b0-2567ffb0c157.png)
 
+## Conslusión
 
-
-
-
-
+### En un principo yo ya sabia o mas bien conocia estas herramientas algunas muy vagamente como Git y Github y otras más como Visual Studio Code, y la Shell de mi Sistema Operativo. Pero gracias Lauch-X de Innovacción Virtual, y a mi Mission Comander @carlogilmar tengo más conocimiento de estas herramientas, que cada día haciendo las prácticas manejo y conozco más. 
