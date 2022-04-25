@@ -55,4 +55,4 @@ En mi caso yo utilizo el Git Bash, el que mostre anteriormente, el cual se puede
 
 ## Conslusión
 
-### En un principo yo ya sabia o mas bien conocia estas herramientas algunas muy vagamente como Git y Github y otras más como Visual Studio Code, y la Shell de mi Sistema Operativo. Pero gracias Lauch-X de Innovacción Virtual, y a mi Mission Comander @carlogilmar tengo más conocimiento de estas herramientas, que cada día haciendo las prácticas manejo y conozco más. 
+### En un principo yo ya sabia o mas bien conocia estas herramientas algunas muy vagamente como Git y Github y otras más como Visual Studio Code, y la Shell de mi Sistema Operativo. Pero gracias Lauch-X de Innovacción Virtual, y a mi Mission Comander Carlo Gilmar tengo más conocimiento de estas herramientas, que cada día haciendo las prácticas manejo y conozco más. 
